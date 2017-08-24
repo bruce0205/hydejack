@@ -1,4 +1,5 @@
-{% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] | default:site.author %}
+<!-- {% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] | default:site.author %} -->
+{% assign author = site.data.authors[page.author] %}
 
 {% if author.about %}
   <aside class="author" role="complementary">

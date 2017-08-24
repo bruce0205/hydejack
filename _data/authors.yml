@@ -27,7 +27,7 @@ qwtel:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         <username>
+    # twitter:         <username>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -50,7 +50,7 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <username>
+    github:            bruce0205
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,10 +61,22 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
-    rss:             https://<url>/feed.xml
+    email:           mailto:<bruce0205@gmail.com>
+    # rss:             https://<url>/feed.xml
 
 # Another author
+bruce:
+  name:              Bruce Hsu
+  email:             <bruce0205@gmail.com>
+  about:             |
+    學習、成長；再學習、再成長。
+  picture:           https://placehold.it/128x128
+  social:
+    github:          bruce0205
+    email:           mailto:<bruce0205@gmail.com>
+  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
+  color: '#268bd2'
+
 mdo:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>

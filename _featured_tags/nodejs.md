@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hydejack
-slug: hydejack
+title: Node.js
+slug: nodejs
 menu: true
 order: 2
 description: >
